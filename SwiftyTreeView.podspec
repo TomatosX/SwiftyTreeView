@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftyTreeView'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'A swifty folding UITableViewCell.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ swifty folding UITableViewCell.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'MewGull' => 'mewgullorg@gmail.com' }
-  s.source           = { :git => 'https://github.com/MewGull/SwiftyTreeView.git', :tag => s.version }
+  s.source           = { :git => 'https://github.com/MewGull/SwiftyTreeView.git', :tag => "0.0.1" }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
