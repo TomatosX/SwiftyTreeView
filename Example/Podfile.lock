@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyTreeView (0.1.0)
+
+DEPENDENCIES:
+  - SwiftyTreeView (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftyTreeView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftyTreeView: e2345adf3d516c3bcba5e4292f531bb5b05eb752
+
+PODFILE CHECKSUM: 0cf8d1ad94eac018b114d93633a7d8d4301f742f
+
+COCOAPODS: 1.2.1

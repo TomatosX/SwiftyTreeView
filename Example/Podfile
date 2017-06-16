@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftyTreeView_Example' do
+  pod 'SwiftyTreeView', :path => '../'
+
+  target 'SwiftyTreeView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
